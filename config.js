@@ -89,9 +89,9 @@ export const config = {
     // Customize the Images in page, use a valid URL.
 
     // vertical image to use.
-    verticalImage: 'https://imagecdn.app/v1/images/https%3A%2F%2Fi.imgur.com%2FmTgHjNe.png?format=webp', 
+    verticalImage: 'https://imagecdn.app/v1/images/https%3A%2F%2Fi.imgur.com%2FRMXQxeJ.jpeg?format=webp', 
     // horizontal image to use.
-    horizontalImage: 'https://imagecdn.app/v1/images/https%3A%2F%2Fi.imgur.com%2FQpSleoF.png?format=webp', 
+    horizontalImage: 'https://imagecdn.app/v1/images/https%3A%2F%2Fi.imgur.com%2FnH7rx8E.jpeg?format=webp', 
 }
                                            
                                            
